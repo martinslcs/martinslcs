@@ -7,6 +7,18 @@
 - 💼 Trabalhando na Bunzl EPI
 - 💡 Apaixonado por Tecnologia e Empreendedorismo
 
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Martins&layout=compact&langs_count=7&theme=dark"/> 
+  </center>
+</div>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens de Programação:**
@@ -43,18 +55,6 @@
 - C#
 - GIT & GITHUB
 - MySQL
-
-## 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Martins&layout=compact&langs_count=7&theme=dark"/> 
-  </center>
-</div>
 
 ## Contatos:
 
