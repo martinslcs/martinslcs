@@ -12,10 +12,10 @@
 <div>
   <a href="https://github.com/Gabrielle-Ribeiro">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Martins&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Martins&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Martins&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
 
