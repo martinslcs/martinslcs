@@ -41,7 +41,7 @@
 - Lógica de Programação
 - C#
 - GIT & GITHUB
-- MySQL
+- SQLServer
 
 ## Contatos:
 
