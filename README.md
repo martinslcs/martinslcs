@@ -3,14 +3,14 @@
 ## 👨‍💻 Sobre mim
 
 - 🌐 Desenvolvedor de Software
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Sistemas de Informação
 - 💼 Trabalhando na Bunzl EPI
 - 💡 Apaixonado por Tecnologia e Empreendedorismo
 
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
+  <a href="https://github.com/martinslcs">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Martins&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
   </center>
