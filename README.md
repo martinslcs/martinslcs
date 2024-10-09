@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🌐 Desenvolvedor FullStack
+- 🌐 Software developer
 - 🎓 Cursando Sistemas de Informação
 - 💼 Trabalhando na Bunzl EPI
 - 💡 Apaixonado por Tecnologia e Empreendedorismo
