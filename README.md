@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">🌐 Em transição para o mundo da tecnologia, com experiência comercial em soluções digitais<br>🎓 Estudante de Sistemas de Informação<br>💡 Apaixonado por tecnologia, inovação e empreendedorismo</p>
+<p align="left">🌐 Em transição para o mundo da tecnologia, com experiência comercial em soluções digitais<br>🎓 Estudante de Sistemas de Informação<br>💡 Apaixonado por tecnologia, inovação e empreendedorismo<br>📫 Contate-me: martinslucasds@hotmail.com</p>
 
 ###
 
-<h2 align="left">🛠️ Desenvolvendo Habilidades Técnicas:</h2>
+<h2 align="left">🛠️ Estudando e me desenvolvendo Habilidades Técnicas:</h2>
 
 ###
 
