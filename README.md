@@ -47,8 +47,8 @@
   <a href="https://www.linkedin.com/in/lucasmartinsds/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/dev.martinslcs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <a href="martinslucasds@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42" height="30" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://wa.me/5511949573054?text=Ol%C3%A1%2C%20vim%20direto%20do%20seu%20perfil%20no%20GitHub!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
